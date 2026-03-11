@@ -1,41 +1,34 @@
-# Welcome to FRAME-ITS
+# Welcome to FRAME‑ITS
 
-This organizations is governed by a FRAME Forum that is a group of organisations who have taken the responsibility for maintenance and development of the European ITS Framework Architecture (The FRAME Architecture). 
+This organization is governed by the **FRAME Forum**, a group of organisations responsible for the maintenance and development of the **European ITS Framework Architecture (the FRAME Architecture)**.
+
+FRAME‑ITS is the authoritative home for all active FRAME repositories, documentation, and tools.  
+Legacy or obsolete repositories from previous projects (e.g., FRAME‑NEXT) are being consolidated here to ensure clarity and long‑term maintainability.
 
 ## Getting Started
-To get involved, check out our contributing guidelines and code of conduct.
+To get involved, please review our contributing guidelines and code of conduct (coming soon).
 
 ## Contact Us
-- **Website**: [https://frame-online.eu/](https://frame-online.eu/)
+- **Website**: https://frame-online.eu/
 - **Email**: contact@frame-online.eu
 - **LinkedIn**: https://www.linkedin.com/in/frame-forum-05a517228/
-- **Twitter**: ---
+- **Twitter**: —  
 
 ## Featured Projects
 
-🌈 **FRAME online website** repository: [https://github.com/FRAME-ITS/FRAME-online](https://github.com/FRAME-ITS/FRAME-online)
-- Hosting a website with information about the FRAME, downloadable resources, browsable model, and many more.
-- Maintenance of website through [Issues](https://github.com/FRAME-ITS/FRAME-online/issues)
-  
+🌈 **FRAME Online Website**  
+Repository: https://github.com/FRAME-ITS/FRAME-online  
+- Hosts the official FRAME website with documentation, downloadable resources, and a browsable model.  
+- Issues for website maintenance: https://github.com/FRAME-ITS/FRAME-online/issues  
+
 ## Acknowledgment
 
-The architecture development has received funding from the European Union's Connecting Europe Facility (CEF) program.
+The development of the FRAME Architecture has received funding from the European Union’s Connecting Europe Facility (CEF) programme.
 
 The contents of this publication are the sole responsibility of FRAME and do not necessarily reflect the opinion of the European Union.
 
 ## About CEF
 
-The Connecting Europe Facility (CEF) is a key EU funding instrument to promote growth, jobs, and competitiveness through targeted infrastructure investment at the European level. It supports the development of high-performing, sustainable, and efficiently interconnected trans-European networks in the fields of transport, energy, and digital services.
+The Connecting Europe Facility (CEF) is an EU funding instrument supporting high‑performing, sustainable, and efficiently interconnected trans‑European networks in transport, energy, and digital services.
 
 For more information, please visit the CEF website.
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
