@@ -1,10 +1,10 @@
+# FRAME‑ITS European ITS Framework Architecture
+
 ![Status](https://img.shields.io/badge/FRAME-Active%20Development-blue)
 ![Governance](https://img.shields.io/badge/Governance-FRAME%20Forum-0a7dda)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 ![EU Funding](https://img.shields.io/badge/Supported%20by-CEF%20Programme-003399)
-
-# Welcome to FRAME‑ITS
 
 FRAME‑ITS is the official GitHub organisation of the **FRAME Forum**, the body responsible for the maintenance, evolution, and governance of the **European ITS Framework Architecture (FRAME Architecture)**.
 
