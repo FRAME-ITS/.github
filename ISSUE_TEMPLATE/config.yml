@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Problem or proposal for the FRAME model or tool
+    url: https://github.com/FRAME-ITS/FRAME/issues/new/choose
+    about: Errors, questions and change requests for the FRAME Architecture Tool
+  - name: Problem with the FRAME website
+    url: https://github.com/FRAME-ITS/FRAME-online/issues/new/choose
+    about: Content or structure of the website
+  - name: Contact the FRAME Maintainers
+    url: mailto:contact@frame-online.eu
+    about: Questions that are not suitable for a public issue

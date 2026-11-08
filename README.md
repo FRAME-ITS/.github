@@ -1,33 +1,18 @@
-# FRAME‑ITS Organization Meta‑Repository
+# FRAME-ITS organisation repository (.github)
 
-This repository provides **organization‑wide configuration and governance** for the FRAME‑ITS GitHub organization.
+This repository holds what applies to the whole FRAME-ITS organisation on GitHub:
 
-It is the central place for:
+| File | Purpose |
+|---|---|
+| `profile/README.md` | The organisation profile shown on https://github.com/FRAME-ITS |
+| `CODE_OF_CONDUCT.md` | Code of Conduct for all FRAME-ITS repositories |
+| `CONTRIBUTING.md` | How to contribute – default for repositories without their own file |
+| `SECURITY.md` | How to report security problems |
+| `ISSUE_TEMPLATE/` | Issue templates of this repository (and default templates for repositories without their own) |
+| `LICENSE` | Licence of this repository (a common licensing scheme for FRAME is being prepared) |
 
-- Cross‑repository and organization‑level issues  
-- Governance discussions  
-- Shared workflows and GitHub templates  
-- Policies that apply across all FRAME‑ITS repositories  
+The files apply to every FRAME-ITS repository that does not have its own version; FRAME and FRAME-online have their own contributing guidelines and issue templates.
 
-## Purpose
+## Issues in this repository
 
-The `.github` repository acts as a **catch‑all location for issues and topics that do not belong to any specific repository**, including:
-
-- FRAME‑wide coordination tasks  
-- Consolidation of legacy repositories and organizations  
-- Documentation of governance and contribution processes  
-- Organization‑level announcements and meta‑discussions  
-
-If your issue affects multiple repositories or the FRAME‑ITS organization as a whole, please file it here.
-
-## Repository Contents
-
-- **Issue templates** (organization‑wide)  
-- **Pull request templates**  
-- **Governance and contribution guidelines** (coming soon)  
-- **Organization‑level discussions**  
-
-## Where to File Issues
-
-- Use **this repository** for FRAME‑wide or cross‑repo issues.  
-- Use **specific project repositories** for technical issues, bugs, or feature requests.
+Use the issues of this repository for topics that concern several repositories or the organisation as a whole – coordination, governance, consolidation of legacy repositories, organisation settings. Problems with the FRAME model go to [FRAME](https://github.com/FRAME-ITS/FRAME/issues), problems with the website to [FRAME-online](https://github.com/FRAME-ITS/FRAME-online/issues).

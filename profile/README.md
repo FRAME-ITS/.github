@@ -1,87 +1,45 @@
-# FRAME‑ITS European ITS Framework Architecture
+# FRAME – European ITS Framework Architecture
 
-![Status](https://img.shields.io/badge/FRAME-Active%20Development-blue)
-![Governance](https://img.shields.io/badge/Governance-FRAME%20Forum-0a7dda)
-![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-blue)
-![EU Funding](https://img.shields.io/badge/Supported%20by-CEF%20Programme-003399)
+![Status](https://img.shields.io/badge/FRAME-maintained-2e98b2)
+![Latest release](https://img.shields.io/github/v/release/FRAME-ITS/FRAME?label=FRAME%20release&color=2e98b2)
+![Supported by](https://img.shields.io/badge/supported%20by-CEF%20programme-003399)
 
-FRAME‑ITS is the official GitHub organisation of the **FRAME Forum**, the body responsible for the maintenance, evolution, and governance of the **European ITS Framework Architecture (FRAME Architecture)**.
+FRAME is the European framework for planning integrated and interoperable Intelligent Transport Systems (ITS). It contains the User Needs and the functionality of practically all of ITS, a method for selecting the part a service needs, and an Enterprise Architect tool in which the motivation, functional, organisational, physical and communication views of a service are built.
 
-This organisation hosts all **authoritative, active, and maintained** FRAME repositories, including the FRAME model, documentation, tools, and the official website.  
-Legacy or obsolete repositories from earlier initiatives (e.g., FRAME‑NEXT) are being consolidated here to ensure clarity, continuity, and long‑term maintainability.
+This organisation hosts the maintained FRAME repositories. FRAME is maintained by the **FRAME Maintainers**, a group of organisations active in ITS architecture across Europe (FRAME Forum).
 
-## 🚀 Mission
+## Repositories
 
-The purpose of FRAME‑ITS is to:
+| Repository | Content |
+|---|---|
+| [**FRAME**](https://github.com/FRAME-ITS/FRAME) | The FRAME Architecture Tool: Enterprise Architect model with the FRAME Repository, the Metamodel and the reference architectures; model history, YAML exports, FRAME toolbox (MDG technology) |
+| [**FRAME-online**](https://github.com/FRAME-ITS/FRAME-online) | Source of the FRAME website |
+| [**.github**](https://github.com/FRAME-ITS/.github) | Organisation profile, shared community files, organisation-wide issues |
 
-- Maintain and evolve the **FRAME Architecture** as the European reference architecture for Intelligent Transport Systems (ITS).
-- Provide **open, transparent, and accessible** documentation, models, and tools.
-- Ensure long‑term governance, versioning, and traceability of the FRAME methodology.
-- Support European stakeholders in adopting interoperable ITS solutions.
+## Get FRAME
 
-## 📚 Key Repositories
+- **Download:** [latest release of the FRAME Architecture Tool](https://github.com/FRAME-ITS/FRAME/releases/latest) – all releases and release notes: [Releases](https://github.com/FRAME-ITS/FRAME/releases)
+- **Website:** [frame-its.github.io/FRAME-online](https://frame-its.github.io/FRAME-online/) – what FRAME is, the methodology, the library of documents, release history
+- **Guides:** Installation Guide and User Guide are attached to each release from 5.3 on
+- **Reference architectures:** NAP, eCall, Safe and Secure Truck Parking and C-ITS in the FRAME Architecture Tool; detailed NAP and National Body Reference Architectures by [NAPCORE](https://napcore.github.io/Reference-Architectures-website/)
 
-### 🔷 **FRAME — The European ITS Framework Architecture (Core Repository)**
-**Repository:** https://github.com/FRAME-ITS/FRAME
+## Contribute
 
-This is the **primary and authoritative repository** of the FRAME Architecture.  
-It contains:
+- Errors, questions and proposals for the model: [FRAME issues](https://github.com/FRAME-ITS/FRAME/issues)
+- Website: [FRAME-online issues](https://github.com/FRAME-ITS/FRAME-online/issues)
+- Topics that concern several repositories or the organisation: [issues of this repository](https://github.com/FRAME-ITS/.github/issues)
 
-- The FRAME functional architecture model  
-- Model source files and structured exports  
-- Supporting documentation and governance materials  
-- Versioned releases of the FRAME methodology  
+Changes are decided by the FRAME Maintainers according to their impact – from corrections reviewed by two Maintainers to methodology changes decided in the Technical Change Decision Process. See [Contribute](https://frame-its.github.io/FRAME-online/contribute/) and the [Code of Conduct](https://github.com/FRAME-ITS/.github/blob/main/CODE_OF_CONDUCT.md).
 
-This repository is the foundation for all FRAME‑related tools, documentation, and implementations.
+## Contact
 
-Issues related to the FRAME model:  
-https://github.com/FRAME-ITS/FRAME/issues
+- E-mail: contact@frame-online.eu
+- LinkedIn: [FRAME Forum](https://www.linkedin.com/in/frame-forum-05a517228/)
 
-### 🌐 **FRAME Online Website**
-**Repository:** https://github.com/FRAME-ITS/FRAME-online  
-**Live site:** https://frame-online.eu/
+## Licence
 
-Hosts the official FRAME website, including:
+Each repository states its licence in its LICENSE file. A common licensing scheme for the FRAME content and code is being prepared by the FRAME Maintainers.
 
-- Public documentation  
-- Downloadable resources  
-- A browsable model (in progress)  
-- Versioned content (planned)  
+## Acknowledgment
 
-Issues related to website content or structure:  
-https://github.com/FRAME-ITS/FRAME-online/issues
-
-## 🧭 Getting Started
-
-To contribute to FRAME repositories:
-
-- Review the **Contributing Guidelines** (available in each repository)
-- Follow the **Code of Conduct**
-- Use GitHub Issues for reporting problems or proposing enhancements
-
-FRAME welcomes contributions that improve clarity, correctness, and usability of the architecture and its documentation.
-
-## 🏛 Governance
-
-The FRAME Forum oversees:
-
-- Methodology evolution  
-- Versioning and release management  
-- Technical consistency  
-- Alignment with European ITS initiatives  
-
-The Forum includes representatives from organisations active in ITS architecture development and deployment across Europe.
-
-## 📞 Contact
-
-- **Website:** https://frame-online.eu/  
-- **Email:** contact@frame-online.eu  
-- **LinkedIn:** https://www.linkedin.com/in/frame-forum-05a517228/  
-- **Twitter/X:** —  
-
-## 🙏 Acknowledgment
-
-The development and maintenance of the FRAME Architecture has received funding from the **European Union’s Connecting Europe Facility (CEF)** programme.
-
-The contents of this publication are the sole responsibility of the FRAME Forum and do not necessarily reflect the opinion of the European Union.
+The development of the FRAME Architecture has received funding from the European Union's Connecting Europe Facility (CEF) programme. The contents are the sole responsibility of the FRAME Maintainers and do not necessarily reflect the opinion of the European Union.
